@@ -427,6 +427,15 @@ input {
     position: relative;
 }
 
+.project-icon {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    opacity: 1;
+    position: relative;
+}
+
 .social-icons {
 	display: inline-block;
 	float: right;
