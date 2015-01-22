@@ -461,3 +461,13 @@ input {
 	display: inline-block;
 	float: left;
 }
+
+
+/* Gallery */
+.gallery {
+	margin-top: 30px;
+}
+
+.gallery img:hover {
+	opacity: 0.4;
+}
